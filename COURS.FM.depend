@@ -1,0 +1,69 @@
+# depslib dependency file v1.0
+1668349002 source:d:\projects\new folder\cours.fm\main.cpp
+	<bits/stdc++.h>
+	"start.h"
+
+1668454943 d:\projects\new folder\cours.fm\include\start.h
+	<bits/stdc++.h>
+
+1668453895 source:d:\projects\new folder\cours.fm\src\start.cpp
+	"start.h"
+
+1668465764 source:d:\projects\new folder\cours.fm\src\menu.cpp
+	"menu.h"
+
+1668464705 d:\projects\new folder\cours.fm\include\menu.h
+	<bits/stdc++.h>
+
+1668161122 source:d:\projects\new folder\cours.fm\src\admin.cpp
+	"admin.h"
+
+1668467249 d:\projects\new folder\cours.fm\include\admin.h
+	<bits/stdc++.h>
+
+1668464705 source:d:\projects\new folder\cours.fm\src\course.cpp
+	"course.h"
+
+1668464705 d:\projects\new folder\cours.fm\include\course.h
+	<bits/stdc++.h>
+
+1668458899 source:d:\projects\new folder\cours.fm\src\conversation.cpp
+	"conversation.h"
+
+1668454943 d:\projects\new folder\cours.fm\include\conversation.h
+	<bits/stdc++.h>
+
+1668352602 source:d:\projects\course.fm\cours.fm\main.cpp
+	<bits/stdc++.h>
+	"start.h"
+
+1668597826 d:\projects\course.fm\cours.fm\include\start.h
+	<bits/stdc++.h>
+
+1668164722 source:d:\projects\course.fm\cours.fm\src\admin.cpp
+	"admin.h"
+
+1668470849 d:\projects\course.fm\cours.fm\include\admin.h
+	<bits/stdc++.h>
+
+1668462499 source:d:\projects\course.fm\cours.fm\src\conversation.cpp
+	"conversation.h"
+
+1668458543 d:\projects\course.fm\cours.fm\include\conversation.h
+	<bits/stdc++.h>
+
+1668599292 source:d:\projects\course.fm\cours.fm\src\course.cpp
+	"course.h"
+
+1668468305 d:\projects\course.fm\cours.fm\include\course.h
+	<bits/stdc++.h>
+
+1668470849 source:d:\projects\course.fm\cours.fm\src\menu.cpp
+	"menu.h"
+
+1668468305 d:\projects\course.fm\cours.fm\include\menu.h
+	<bits/stdc++.h>
+
+1668598334 source:d:\projects\course.fm\cours.fm\src\start.cpp
+	"start.h"
+
